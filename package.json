@@ -8,23 +8,23 @@
   },
   "license": "BSD-2-Clause",
   "dependencies": {
-    "underscore": "1.8.x",
+    "underscore": "~1.9.1",
     "lodash": "4.17.x",
     "raphael": "2.2.x",
-    "snapsvg": "0.4.x",
+    "snapsvg": "~0.5.1",
     "webfontloader": "~1.6.x"
   },
   "devDependencies": {
     "bower": "1.8.x",
-    "eslint": "3.16.x",
-    "eslint-config-google": "0.7.x",
-    "jison": "0.4.15",
-    "jshint": "2.9.x",
+    "eslint": "~5.16.0",
+    "eslint-config-google": "~0.12.0",
+    "jison": "0.4.18",
+    "jshint": "~2.10.2",
     "jsonlint": "1.6.x",
     "minifier": "0.8.x",
     "preprocessor": "1.4.x",
-    "qunit": "0.9.x",
-    "uglify-js": "2.8.x"
+    "qunit": "~2.9.2",
+    "uglify-js": "~3.5.4"
   },
   "scripts": {
     "test": "make test"
