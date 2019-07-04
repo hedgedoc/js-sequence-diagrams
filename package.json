@@ -12,7 +12,8 @@
     "lodash": "4.17.x",
     "raphael": "2.2.x",
     "snapsvg": "0.4.x",
-    "webfontloader": "~1.6.x"
+    "webfontloader": "~1.6.x",
+    "snyk": "^1.189.0"
   },
   "devDependencies": {
     "bower": "1.8.x",
@@ -27,6 +28,9 @@
     "uglify-js": "2.8.x"
   },
   "scripts": {
-    "test": "make test"
-  }
+    "test": "make test",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }
