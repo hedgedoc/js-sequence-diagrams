@@ -15,16 +15,16 @@
     "webfontloader": "~1.6.x"
   },
   "devDependencies": {
-    "bower": "1.8.x",
-    "eslint": "3.16.x",
-    "eslint-config-google": "0.7.x",
+    "bower": "1.8.8",
+    "eslint": "3.16.1",
+    "eslint-config-google": "0.7.1",
     "jison": "0.4.15",
-    "jshint": "2.9.x",
-    "jsonlint": "1.6.x",
-    "minifier": "0.8.x",
-    "preprocessor": "1.4.x",
-    "qunit": "0.9.x",
-    "uglify-js": "2.8.x"
+    "jshint": "2.9.7",
+    "jsonlint": "1.6.3",
+    "minifier": "0.8.1",
+    "preprocessor": "1.4.0",
+    "qunit": "0.9.3",
+    "uglify-js": "2.8.29"
   },
   "scripts": {
     "test": "make test"
