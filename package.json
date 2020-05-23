@@ -11,7 +11,7 @@
     "underscore": "1.8.x",
     "lodash": "4.17.x",
     "raphael": "2.2.x",
-    "snapsvg": "0.4.x",
+    "snapsvg": "0.5.x",
     "webfontloader": "~1.6.x"
   },
   "devDependencies": {
