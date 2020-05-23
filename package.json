@@ -10,7 +10,7 @@
   "dependencies": {
     "underscore": "1.10.x",
     "lodash": "4.17.x",
-    "raphael": "2.2.x",
+    "raphael": "2.3.x",
     "snapsvg": "0.5.x",
     "webfontloader": "~1.6.x"
   },
