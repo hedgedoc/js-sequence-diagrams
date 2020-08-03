@@ -19,7 +19,7 @@
     "eslint": "7.6.0",
     "eslint-config-google": "0.14.0",
     "jison": "0.4.15",
-    "jshint": "2.11.1",
+    "jshint": "2.11.2",
     "jsonlint": "1.6.3",
     "minifier": "0.8.1",
     "preprocessor": "1.4.0",
