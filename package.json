@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "bower": "1.8.8",
-    "eslint": "7.8.0",
+    "eslint": "7.8.1",
     "eslint-config-google": "0.14.0",
     "jison": "0.4.15",
     "jshint": "2.12.0",
