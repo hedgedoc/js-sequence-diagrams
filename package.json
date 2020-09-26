@@ -18,7 +18,7 @@
     "bower": "1.8.8",
     "eslint": "7.9.0",
     "eslint-config-google": "0.14.0",
-    "jison": "0.4.15",
+    "jison": "0.4.18",
     "jshint": "2.12.0",
     "jsonlint": "1.6.3",
     "minifier": "0.8.1",
