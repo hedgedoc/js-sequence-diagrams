@@ -23,7 +23,7 @@
     "jsonlint": "1.6.3",
     "minifier": "0.8.1",
     "preprocessor": "1.4.0",
-    "qunit": "0.9.3",
+    "qunit": "2.12.0",
     "uglify-js": "2.8.29"
   },
   "scripts": {
